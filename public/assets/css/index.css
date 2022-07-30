@@ -1,0 +1,49 @@
+.timeline-container {
+    background-color: hsl(0, 0%, 97%);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.timeline-row {
+    margin-top: 10px;
+}
+
+.timeline::before {
+    background-color: #798794;
+}
+
+.timeline-header.card-header {
+    padding: .75rem .25rem;
+}
+
+.dropdown-toggle::after {
+    margin-top: .70em;
+    margin-left: 0.7em;
+}
+
+.input-disabled {
+    background-color: #FFF !important;
+}
+
+.modal-header.modal-view-permohonan {
+    padding: 4px 1rem 4px 1rem;
+}
+
+table.table.table-alasan {
+    margin-bottom: 0rem;
+}
+
+th.alasan {
+    width: 32rem;
+    padding: .75rem;
+}
+
+th.alasan-label {
+    padding: 0 .75rem;
+}
+
+.btn-icon {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
